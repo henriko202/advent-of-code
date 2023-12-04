@@ -1,0 +1,14 @@
+{
+  "name": "Advent Of Code",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "tsx watch day03/index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.10.1",
+    "tsx": "^4.6.1"
+  }
+}
