@@ -59,7 +59,7 @@ function part2() {
 }
 
 console.log("----Part 1----")
-console.log(part1()) //53974
+console.log(part1())
 
 console.log("----Part 2----")
-console.log(part2()) //52840
+console.log(part2())
